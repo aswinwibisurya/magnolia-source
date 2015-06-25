@@ -272,12 +272,12 @@
         <version>${imagingVersion}</version>
       </dependency>
       <dependency>
-        <groupId>info.magnolia.resources</groupId>
+        <groupId>info.magnolia.core</groupId>
         <artifactId>magnolia-resources</artifactId>
         <version>${resourcesVersion}</version>
       </dependency>
       <dependency>
-        <groupId>info.magnolia.resources</groupId>
+        <groupId>info.magnolia.core</groupId>
         <artifactId>magnolia-resources-app</artifactId>
         <version>${resourcesVersion}</version>
       </dependency>
